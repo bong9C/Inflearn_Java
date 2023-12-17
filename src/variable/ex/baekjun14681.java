@@ -1,7 +1,7 @@
 package variable.ex;
 import java.util.Scanner;
 
-public class backjun14681 {
+public class baekjun14681 {
 
     public static void main(String[] args) {
         // Scanner 객체 생성

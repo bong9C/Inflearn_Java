@@ -2,7 +2,7 @@ package variable.ex;
 
 import java.util.Scanner;
 
-public class backjun2525 {
+public class baekjun2525 {
     // main 메서드 선언
     public static void main(String[] args) {
 
